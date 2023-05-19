@@ -1,4 +1,4 @@
-# lab-agile-planning
+# Agile and Scrum Methodologies Planning Lab
 Lab Practice for IBM DevOps and Software Engineering Speciliazation
 
 This lab emphasise on getting comfortable with following methods in Agile and Scrum methodology:
